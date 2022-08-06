@@ -1,5 +1,13 @@
-module Calculator
+currentNumber = 0
 
-greet() = print("Hello World!")
+function add(numbers)
+    for n in numbers 
+        currentNumber += n
+    end
+end
 
-end # module
+function remove(numbers)
+    for n in numbers 
+        currentNumber -= n
+    end
+end

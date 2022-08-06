@@ -1,6 +1,6 @@
 name = "Calculator"
 uuid = "ffe502c4-85a2-472b-8a0f-43aa9a078b1e"
-authors = ["SinGala67 <galahane.rouille@gmail.com>"]
+authors = ["SinGala"]
 version = "0.1.0"
 
 [deps]
